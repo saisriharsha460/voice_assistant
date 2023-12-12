@@ -1,0 +1,8 @@
+ speechrecognition 
+ pyttsx3
+ datetime
+ pywhatkit
+ wikipedia
+ ecapture
+ pyaudio
+ scikit-learn
